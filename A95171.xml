@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of every remarkable circumstance in relieving of Tredagh, by Captaine Thomas Steutevile.  Also the copy of Sir Phelome Oneal's commission, for the establishing of Colonell Richard Plunket Lievetenant [sic] Generall of Lempster, and Vlster. Together, with the distresse of the whole kingdome, and other passages of note.</title>
+            <author>Stuteville, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95171</idno>
+            <idno type="STC">Wing T2904</idno>
+            <idno type="STC">Thomason E135_26</idno>
+            <idno type="STC">ESTC R588</idno>
+            <idno type="EEBO-CITATION">99872912</idno>
+            <idno type="PROQUEST">99872912</idno>
+            <idno type="VID">156445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156445)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of every remarkable circumstance in relieving of Tredagh, by Captaine Thomas Steutevile.  Also the copy of Sir Phelome Oneal's commission, for the establishing of Colonell Richard Plunket Lievetenant [sic] Generall of Lempster, and Vlster. Together, with the distresse of the whole kingdome, and other passages of note.</title>
+                  <author>Stuteville, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. R. for C. M.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156445:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF EVERY REMARKABLE CIRCUMSTANCE IN RELIEVING OF TREDAGH, BY Captaine <hi>Thomas Steutevile.</hi> Alſo the Copy of Sir <hi>Phelome Oneal's</hi> Commiſſion, for the eſtabliſhing of Colonell <hi>Richard Plunket</hi> Lievetenant Generall of <hi>Lempſter,</hi> and <hi>Vlſter.</hi> Together, with the diſtreſſe of the whole Kingdome, and other paſſages of note.</p>
+            <p>Printed by <hi>J. R.</hi> for <hi>C. M.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156445:2"/>
+            <pb n="3" facs="tcp:156445:2"/>
+            <head>A true Relation of thoſe paſſages which happened unto Captain <hi>Thomas Steutevile,</hi> unto the Town of <hi>Droghedagh,</hi> elſe <hi>Tredagh;</hi> from the ninth of <hi>January,</hi> un<g ref="char:EOLhyphen"/>to <hi>Wedneſday,</hi> the 19<hi rend="sup">th</hi> day of the ſame; together with his releeving the Town.</head>
+            <p>ON Sunday, Captain <hi>Stutevile</hi> late in the night ſet ſaile, having with him the <hi>Swan,</hi> two Frig<g ref="char:EOLhyphen"/>gots, one Gubard, and two long Boats. And going along the Coaſts, the Captain ſent out of the <hi>Swan</hi> ſome Muſqueteers to the Sherreis, where he found the enemy fled, but had left be<g ref="char:EOLhyphen"/>hinde them much goods, which being all taken aboord by them, they ſet the Town on fire; and with it got above 500 l. worth of Corn. Then returning unto their Ship on Tueſday, they came ſafe to the Bar of <hi>Droghedab,</hi> where Captain <hi>Stute<g ref="char:EOLhyphen"/>vile</hi> with his five ſmall Veſſels loaden with victualls and Am<g ref="char:EOLhyphen"/>munition put over, and went up the River not without much danger; the Rebells having made a kinde of a Block-houſe upon the entrance into the River, whereon they had planted two Peeces of Ordnance, and all along in Trenches within both ſides of the River were placed Muſqueteers; and he be<g ref="char:EOLhyphen"/>ing not able to paſſe, but continually within Muſquet-ſhot of either, for two myles together, his Ordnance but ſeldome availing him any thing (by reaſon of the heigth of the ſhore above him;) yet (God be thanked) he got la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e within the
+<pb n="4" facs="tcp:156445:3"/> Town with his Veſſels, without the loſſe of a man (he having with him 124 Muſqueteers, beſides Ship-men.) But to ex<g ref="char:EOLhyphen"/>preſſe the joy of the Souldiers in the Town, requires a quicker Genius than mine own, or at leaſt one that had felt their wants. The Rebells ſuppoſing that there would be ſuch joy, and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by reaſon of the Souldiers now having ſtore of victualls, they would altogether drown themſelves in ſecurity, (as it is thought) dealt under hand with ſome Centeries that were on the Walls, and brake in at a place where there had been a Shallop-Port, ſo that two might come with ſtooping low, on a breaſt; in at which, 'tis certain 500 got, and marched a great way into the Towne; untill at laſt one of their chiefe Captains was perceived by a common Souldier of ours, to turn a Peece of Ordnance that ſtood upon the bridge, towards the Town.</p>
+            <p>The Souldiers ſeeing this, ſhot, and kill'd the Captain, and gave the Allarum. Whereupon our Souldiers gathered ſo faſt, that they wholly diſcovered the Rebells, and had the killing of 160 of them, and took priſoners 40: ſome eſcaped through the place they came in at, and others over the Wall, yet many brake their necks at that ſport; ſome one hundred is thought to be yet in Town, hidden in Papiſts houſes, and is confeſſed by ſome of the Houſholders that were found faulty that way; that it was intended by the Townſmen to have cut the throats of all the Officers that lay in their houſes, upon this aſſault. But (God be thanked) in all this we loſt not one man. And on Thurſday, Captain <hi>Steutevile</hi> ſet forth out of the Town, and came with leſſe danger than before to the Bar, where he was on ground, and was forced to ſtay for want of water; for the Tyde being ſpent, he lay in a manner dry, the reſt of the Shipping forſaking him; whereupon the enemies came down thinking to have taken him and his Ship: but he layd about him ſo well, that he killed 20 of them; yet they not contented with this (but like deſperate villains) got under<g ref="char:EOLhyphen"/>neath the ſtern of the Ship ſome 30 of them, where he could do them little hurt; and there they be-laboured themſelves
+<pb n="5" facs="tcp:156445:3"/> with a Pick-axe and a crow of iron, and brake the Ship al<g ref="char:EOLhyphen"/>moſt through; wherupon he threw ſome 6 Granadoes amongſt them, and they finding themſelves fewer by ſix, by reaſon of them, and many of themſelves to want plaſters about the thighes and ſhins; and the ſeventh caſt, thought their heels their beſt ſafegard, leaving behinde them ſome pikes and ſwords, one Target, Pick-axe, and a crow of iron. Then he finding himſelfe quit of them, the next Tyde hoiſted up ſayls, and came in this day ſafe into our Town of <hi>Dublin;</hi> but we cannot hear any certainty of the other Veſſells that forſooke him, only we fear that by reaſon of the winds, they were dri<g ref="char:EOLhyphen"/>ven Northerly.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:156445:4"/>
+            <head>THE Copy of Sir <hi>Phelome O-Neal,</hi> K<hi rend="sup">t</hi>, his Commiſſion for eſtabliſhing Colonell <hi>Richard Pluncket</hi> his Lievtenant Ge<g ref="char:EOLhyphen"/>nerall of <hi>Lempſter</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter.</hi>
+            </head>
+            <opener>
+               <salute>To the Right Honorable, our friend and kinſ<g ref="char:EOLhyphen"/>man, Colonell <hi>Richard Pluncket,</hi> Lievtenant Generall <hi>of Lempſter.</hi>
+               </salute>
+            </opener>
+            <p>WHereas we have hitherto ſuſtained ſeverall inconveni<g ref="char:EOLhyphen"/>ences, in regard of the great want of able <hi>Command<g ref="char:EOLhyphen"/>ers,</hi> concerning the Forces in the <hi>Northern parts</hi> of this King<g ref="char:EOLhyphen"/>dom; For the ſpeedy prevention whereof, <hi>We Sir Phelome O-Neal, Knight, Elect Generall</hi> of the two Provinces of <hi>Lemp<g ref="char:EOLhyphen"/>ſter</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> by the free will and conſent of the Right Ho<g ref="char:EOLhyphen"/>norable, <hi>Lords, Knights, and Commons</hi> there, Are out of our pi<g ref="char:EOLhyphen"/>ous care for the ſafety of the ſaid parts, moved to nominate and appoint One whoſe Birth and Honors, together with his Wiſedome, Proweſſe, and Magnanimity, may animate, adviſe, and diſcipline our Army within the ſaid parts, as well to a due obedience, as unto fight, in a time of Warre. In <hi>tender</hi> conſideration whereof, we the ſaid <hi>Phelome O-Neal,</hi> Knight, <hi>Generall</hi> of the ſaid Forces, and Commander in Chief, Have thought fitting, and moſt expedient, for the ſpeedy advance<g ref="char:EOLhyphen"/>ment
+<pb n="7" facs="tcp:156445:4"/> of the holy <hi>Romane Catholike Religion,</hi> together with the great contentment, ſatisfaction, and welfare which ſhall therein enſue unto our Soveraign Lord,<note place="margin">By this may be ſeen the inſo<g ref="char:EOLhyphen"/>lency and falſe pretence of the Popiſh Rebels.</note> the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Ma<hi rend="sup">tie</hi>, Have Nominated, Ordained, and Conſtituted, and by Theſe our letters do Nominate, Ordain, and Conſtitute our truſty and well affected kinſman and friend, <hi>Colonell Richard Pluncket,</hi> to be our <hi>Lievtenant Generall,</hi> and next in Commiſ<g ref="char:EOLhyphen"/>ſion unto us, over the ſaid <hi>Catholike Army</hi> within the Province of <hi>Lempſter</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter:</hi> Under whoſe Conduct and Com<g ref="char:EOLhyphen"/>mand, we do hereby ſtraitly charge and require all manner of perſons within the ſaid bounds and limits of <hi>Lempſter,</hi> to yeeld their ready ſervice and obedience whatſoever. And further<g ref="char:EOLhyphen"/>more it is our ſaid will and pleaſure, That it ſhould be lawfull unto him our <hi>Lievtenant Generall Pluncket,</hi> to perform and do whatſoever in his wiſedome and prudence ſhall be requiſite, unto the expediting of theſe our Affairs.</p>
+            <closer>
+               <signed>We the ſaid Sir <hi>Phelome O-Neal</hi> ratifying, confirming and allowing the ſame, as our own proper Act and Deed;</signed>
+               <dateline>whereunto we have ſet our Hand and Seal, <date> 
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> 1641. </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:156445:5"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SInce the relieving of <hi>Tredagh,</hi> the Rebells have drawn their greateſt Forces thither, hoping to make that their purchaſe, which hath been, of late, ſo fatall to them.</p>
+            <p>Two Ieſuites are at this inſtant brought from <hi>Yong<g ref="char:EOLhyphen"/>hall;</hi> they came from <hi>Spain</hi> in Engliſh Bottomes, with ten Barrells of Powder, and Letters full of knavery, with a falſe ſuperſcription, to <hi>R. B.</hi> Earl of <hi>Cork.</hi>
+            </p>
+            <p>Our Souldiers are in a great want of Money; they begin to play mad pranks. For us in Town here, we are like to be in great diſtreſſe, if Men, Money, Victualls, and Proviſi<g ref="char:EOLhyphen"/>on come not ſpeedily, indeed with farre more ſpeed than hi<g ref="char:EOLhyphen"/>therto they have done. The promiſes we have had, and the ſtay there hath been in the performance thereof, doubtleſſe much animates the Rebells in their maſſacres and daily cru<g ref="char:EOLhyphen"/>elties. Beſides, it makes us fear the whole Kingdom, which by a reaſonable ſupply of Men, Monies, and other neceſſaries, would be able (which otherwiſe will be ſuddenly put to a very neer extremity) to encounter their greateſt oppoſiti<g ref="char:EOLhyphen"/>on. And ſo looking (even with the firſt Windes) for a con<g ref="char:EOLhyphen"/>ſiderable relief, till the next opportunity. Farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi>
+                  <date>
+                     <hi>Jan. 24.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
